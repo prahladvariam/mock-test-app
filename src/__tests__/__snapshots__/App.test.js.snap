@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ..... Api working properly 1`] = `
+<div
+  className="usersDetails"
+>
+  <h1>
+    Users Details
+  </h1>
+</div>
+`;
+
+exports[`Testing ..... component rendering 1`] = `
+<div
+  className="usersDetails"
+>
+  <h1>
+    Users Details
+  </h1>
+</div>
+`;
